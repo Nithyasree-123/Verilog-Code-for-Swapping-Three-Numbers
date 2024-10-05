@@ -58,6 +58,11 @@ endmodule
 ## OUTPUT:
 
 
+![image](https://github.com/user-attachments/assets/68fe610c-60c3-45ad-a082-30d561eab23c)
+
+![image](https://github.com/user-attachments/assets/60bfa78a-15ca-42ea-b720-90aeed243a48)
+
+
 ## TESTBENCH FOR SWAPPING THREE NUMBERS:
 
 ~~~
@@ -111,6 +116,7 @@ endmodule
 
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/6906dcef-97f6-4ae3-a4e0-b24ddd835929)
 
 
 ## CONCLUSION:
