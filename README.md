@@ -96,7 +96,8 @@ module swap_three_numbers_tb;
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/6906dcef-97f6-4ae3-a4e0-b24ddd835929)
+![Screenshot 2024-10-05 170324](https://github.com/user-attachments/assets/e20bbcf9-98a4-4652-8d30-df96369f0e64)
+
 
 
 ## CONCLUSION:
